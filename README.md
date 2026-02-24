@@ -70,7 +70,7 @@ This mirrors production-grade workflows used in professional football analytics,
 
 ## Repository Structure
 
-Suggested structure, adjust to match your repo layout
+The project is organised into modular stages aligned with the modelling pipeline.
 
 
 ---
