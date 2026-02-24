@@ -37,7 +37,7 @@ action, player, and team level outputs
 
 ## Pipeline Walkthrough
 
-![Tracking Enhanced VAEP Pipeline Scroll](tracking_enhanced_vaep_pipeline_scroll.gif)
+![Pipeline Walkthrough](tracking_enhanced_vaep_pipeline_final_scroll.gif)
 
 ---
 
